@@ -9,5 +9,3 @@ python [algoritmos] < [arquivo_de_entrada] >[arquivo_saida]
 exemplo: python ordenacao-heuristica.py < entrada.txt > saida.txt
 
 
-Smith Lima
-email: [smith.lima@eng.ci.ufpb.br](smith.lima@eng.ci.ufpb.br)
